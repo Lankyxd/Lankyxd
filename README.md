@@ -37,18 +37,11 @@
 ### 👉Graphic Designing
 <p align="left">
   &emsp;
-<a href="#">
+<a href="https://www.figma.com/">
   	<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://www.canva.com/">
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
  </p>
 
- ### 👉 Software & Tools
- 
-<p>
-
-</p>
-
-<br/>
