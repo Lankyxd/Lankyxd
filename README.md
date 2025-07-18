@@ -1,5 +1,5 @@
 
-# 🛠️ My Skills
+<p style="text-size: 15px;"">🛠️ My Skills</p>
 
 # 👉 Programming languages
 
