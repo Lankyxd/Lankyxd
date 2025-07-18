@@ -1,6 +1,6 @@
 
-# <p>🛠️ My Skills</p>
 
+My Skills
 # 👉 Programming languages
 
 <p align="left"> 
