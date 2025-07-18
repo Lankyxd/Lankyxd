@@ -31,6 +31,10 @@
  </p>
 
 <br>
-<p>I'm a student of Associate's Degree in Web Programming (Argentina, 3 Years) <br>
-    I'm 20 years old <br>
-    I began programming in 2024</p>
+
+
+<h1>My Life</h1>
+<p>I'm a student of Associate's Degree in Web Programming (Argentina, 3 Years). <br>
+    I'm 20 years old and i began programming in 2024. <br>
+    </p>
+  <h6>I'm working on personal proyects referred to web development.</h6>
