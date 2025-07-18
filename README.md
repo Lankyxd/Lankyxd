@@ -1,7 +1,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+# 👉 Programming languages
 
 <p align="left"> 
   &emsp;
@@ -22,7 +22,7 @@
 </p>
 
 
-### 👉Graphic Designing
+# 👉Graphic Designing
 <p align="left">
   &emsp;
 <img src="https://img.icons8.com/?size=60&id=zfHRZ6i1Wg0U&format=png&color=000000">
