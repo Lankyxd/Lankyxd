@@ -1,7 +1,7 @@
 
 
-My Skills
-# 👉 Programming languages
+<h1>My Skills</h1>
+## 👉 Programming languages
 
 <p align="left"> 
   &emsp;
