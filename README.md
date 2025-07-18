@@ -14,7 +14,7 @@
    </a>
 </p>
 
-### 👉 Frontend Development
+# 👉 Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -38,10 +38,10 @@
 <p align="left">
   &emsp;
 <a href="https://www.figma.com/">
-  	<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  	<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="width: 250px;"/>
   </a>
   <a href="https://www.canva.com/">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" style="width: 250px;"/>
   </a>
  </p>
 
