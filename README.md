@@ -30,3 +30,7 @@
   <img src="https://img.icons8.com/?size=60&id=iWw83PVcBpLw&format=png&color=000000">
  </p>
 
+<br>
+<p>I'm a student of Associate's Degree in Web Programming (Argentina, 3 Years) <br>
+    I'm 20 years old <br>
+    I began programming in 2024</p>
