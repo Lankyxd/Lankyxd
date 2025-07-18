@@ -11,20 +11,13 @@
 # 👉 Frontend Development
 <p align="left"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white" style="width: 50px;"/>
-  </a>   
+  <img src="https://img.icons8.com/?size=60&id=YWDsCjL0c2qv&format=png&color=000000">
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white" style="width: 50px;"/>
-  </a> 
+   <img src="https://img.icons8.com/?size=60&id=AY9OsTxmB7MH&format=png&color=000000"> 
    &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" style="width: 50px;"/>
-  </a>
-    <a href="https://tailwindcss.com/" target="_blank"> 
-    <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-0F172A?logo=tailwindcss" style="width: 50px;"/>
-  </a>
+  <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000">
+  &emsp;
+  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000">
 </p>
 
 
